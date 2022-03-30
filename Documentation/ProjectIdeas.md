@@ -53,9 +53,9 @@ Include the name of all of your team members in the document to be submitted (2 
 
 ### Soroush Alimardani
 
- - List the source of and describe at least 1 potential data sets(8 total points)
- - Identify who your customer/s would  be (8 total points)
- - Describe the problem that  the  proposed project solves and justify its need (10 total points)
- - State the product vision and how your web based project would be useful to society (8 points)
- - Identify the major features of each of the proposed projects (12 total points)
+ - https://www.kaggle.com/code/discdiver/the-most-in-demand-skills-for-data-scientists The Most in Demand Skills for Data Scientists¶.
+ - Students studying computers science with concentration in Data Science or indivisials interested in Data Science
+ - Students can get informed of what skills are most important based on the number of times that skill was required in job postings.
+ - A software which allows students to know which technologies or languages are more in demand in order to focus on learning them.
+ - sorting the required skills, What platform the job posting was from(LinkedIn, Indeed, SimplyHired or Monster)
 
