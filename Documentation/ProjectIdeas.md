@@ -29,11 +29,11 @@ Include the name of all of your team members in the document to be submitted (2 
 
 ### Kareem Almasri
 
- - List the source of and describe at least 1 potential data sets(8 total points)
- - Identify who your customer/s would  be (8 total points)
- - Describe the problem that  the  proposed project solves and justify its need (10 total points)
- - State the product vision and how your web based project would be useful to society (8 points)
- - Identify the major features of each of the proposed projects (12 total points)
+ - [Cost of living Dataset](https://www.kaggle.com/datasets/ankanhore545/cost-of-living-index-2022) and [Job postings](https://www.kaggle.com/datasets/PromptCloudHQ/us-jobs-on-monstercom)
+ - The customers would be people who are looking for a new affordable place to live along with a job suited to their interests
+ - This program would solve the problem of figuring out where someone should aim to live. 
+ - My product vision is a tool that balances amenities, cost of living, and job density in order to maximize comfort and security for the end-user
+ - Filter Jobs by job type. Get job density by state. Recommended states to apply in. Visualization of job market
 
 ### Kevin Chen
 
