@@ -45,11 +45,11 @@ Include the name of all of your team members in the document to be submitted (2 
 
 ### Rishi Challa
 
- - List the source of and describe at least 1 potential data sets(8 total points)
- - Identify who your customer/s would  be (8 total points)
- - Describe the problem that  the  proposed project solves and justify its need (10 total points)
- - State the product vision and how your web based project would be useful to society (8 points)
- - Identify the major features of each of the proposed projects (12 total points)
+ - Data Source: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api Twitter API. Allows for REST API based twitter data fetching, allows for text based analysis of almost any topic imaginable due to the sheer amount of data the platform has.
+ - Players of video games, video game enthusiasts, etc
+ - Sometimes its really hard to decide which new game to play, many indie games often go unnoticed while larger AAA games may take a while to release. The goal of this project would be to help people find new fun games to play based on what's popular in twitter.
+ - A tool which allows gamers to do what they enjoy, playing video games without constant searching for a perfect jewel of a game.
+ - Filter games by genre, popularity index, time of popularity, targetted platform (Switch/Xbox/PC/PS/Stadia/etc)
 
 ### Soroush Alimardani
 
